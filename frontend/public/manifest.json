@@ -1,0 +1,24 @@
+{
+  "name": "Valida-PE",
+  "short_name": "Valida-PE",
+  "description": "Verificación de identidad y datos fiscales peruanos",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0f1137",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "192x192",
+      "type": "image/x-icon",
+      "purpose": "any"
+    },
+    {
+      "src": "/favicon.ico",
+      "sizes": "512x512",
+      "type": "image/x-icon",
+      "purpose": "maskable"
+    }
+  ]
+}
